@@ -1,1 +1,1 @@
-# prozin-assets-test
+# prozin-assets
