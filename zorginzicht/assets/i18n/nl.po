@@ -1,4 +1,36 @@
 
+	#| msgid label_show_cost_imp
+	msgid "Show cost"
+	msgstr "Toon kosten"
+
+	#| msgid label_message
+	msgid "Message"
+	msgstr "Bericht"
+
+	#| msgid message_help_message_type
+	msgid "Selecting the appropriate message type helps users understand and navigate the content more effectively. Please note that the colour and formatting of messages may change over time. Always select a message type based on its content, not on its appearance. This section type should be used sparingly. Overuse may overwhelm users and reduce its impact. This section type is never displayed with a title."
+	msgstr "Het juiste berichttype selecteren helpt gebruikers de inhoud beter te begrijpen of op te merken. De kleur en opmaak van berichten kunnen in de loop van de tijd veranderen. Kies het type daarom altijd op basis van de inhoud, niet op basis van de vormgeving. Gebruik het spaarzaam: bij overmatig gebruik raken gebruikers mogelijk overprikkeld en verliest het zijn effect. Dit sectietype wordt nooit met een titel weergegeven."
+
+	#| msgid label_neutral
+	msgid "Neutral"
+	msgstr "Neutraal"
+
+	#| msgid label_notice
+	msgid "Notice"
+	msgstr "Kennisgeving"
+
+	#| msgid label_error
+	msgid "Error"
+	msgstr "Fout"
+
+	#| msgid label_warning
+	msgid "Warning"
+	msgstr "Waarschuwing"
+
+	#| msgid label_message_contents
+	msgid "Message contents"
+	msgstr "Berichtinhoud"
+
 	#| msgid message_no_hero_image
 	msgid "A hero image is required to publish this item."
 	msgstr "Een hoofdafbeelding is vereist om dit item te publiceren."
@@ -224,8 +256,8 @@
 	msgstr "Medicatieoverdracht"
 
 	#| msgid label_acute_care
-	msgid "Acute Care"
-	msgstr "Acute Zorg"
+	msgid "Acute care"
+	msgstr "Acute zorg"
 
 	#| msgid label_typical_side_effects
 	msgid "Typical side effects"
@@ -532,8 +564,8 @@
 	msgstr "Personas"
 
 	#| msgid message_components
-	msgid "Components which may be used to be placed on pages."
-	msgstr "Componenten die op pagina's geplaatst kunnen worden."
+	msgid "Components that can be used within any ProZIN product."
+	msgstr "Componenten die gebruikt kunnen worden binnen elk ProZIN-product."
 
 	#| msgid message_page_types
 	msgid "Various page types, each with its own purpose."
@@ -1175,6 +1207,14 @@
 	msgid "All sectors"
 	msgstr "Alle sectoren"
 
+	#| msgid label_sectors
+	msgid "Sectors"
+	msgstr "Sectoren"
+
+	#| msgid message_choose_a_sector
+	msgid "Choose a sector."
+	msgstr "Kies een sector."
+
 	#| msgid label_collapse_all_sections
 	msgid "Collapse all sections"
 	msgstr "Vouw alle secties dicht"
@@ -1670,10 +1710,6 @@
 	#| msgid label_ok
 	msgid "Okay"
 	msgstr "Oké"
-
-	#| msgid label_error
-	msgid "Error"
-	msgstr "Fout"
 
 	#| msgid label_something_went_wrong
 	msgid "Something went wrong…"
@@ -3448,8 +3484,8 @@
 	msgstr "Lees meer…"
 
 	#| msgid label_read_more_ell
-	msgid "Read more…"
-	msgstr "Lees meer…"
+	msgid "More information…"
+	msgstr "Meer informatie…"
 
 	#| msgid label_lemma
 	msgid "Search term"
@@ -5887,6 +5923,10 @@
 	msgid "Frequency of administration"
 	msgstr "Toedieningsfrequentie"
 
+	#| msgid label_IHSI_code
+	msgid "IHSI Code"
+	msgstr "IHSI Code"
+
 	#| msgid label_funding
 	msgid "Budgetting"
 	msgstr "Bekostiging"
@@ -7946,3 +7986,23 @@
 	#| msgid label_specification_type_mediation_register
 	msgid "Mediation register"
 	msgstr "Bemiddelingsregister"
+
+	#| msgid message_sector_intro
+	msgid "This page lists all information for the sector {0}."
+	msgstr "Op deze pagina vindt u alle informatie voor de sector {0} overzichtelijk bij elkaar."
+
+	#| msgid label_main_information
+	msgid "Main information"
+	msgstr "Belangrijkste informatie"
+
+	#| msgid label_transparency_calendar_description
+	msgid "An overview of when what quality data on care provided will be delivered for the sector {0}."
+	msgstr "Een overzicht van wanneer welke kwaliteitsgegevens over verleende zorg aangeleverd worden voor de sector {0}."
+
+	#| msgid label_long_term_agenda_description
+	msgid "Priority list of quality products to be developed for the sector {0}."
+	msgstr "Prioriteitenlijst van te ontwikkelen kwaliteitsproducten voor de sector {0}"
+
+	#| msgid label_data_exchange_description
+	msgid "Overview of standards that have a mandatory component due to the Electronic Data Interchange in Healthcare Act (Wegiz) for the {0} sector."
+	msgstr "Overzicht van standaarden die een verplicht component hebben vanwege de Wet elektronische gegevensuitwisseling in de zorg (Wegiz) voor de sector {0}."
