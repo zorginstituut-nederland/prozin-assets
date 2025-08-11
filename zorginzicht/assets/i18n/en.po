@@ -1,4 +1,36 @@
 
+	#| msgid label_show_cost_imp
+	msgid "Show cost"
+	msgstr "Show cost"
+
+	#| msgid label_message
+	msgid "Message"
+	msgstr "Message"
+
+	#| msgid message_help_message_type
+	msgid "Selecting the appropriate message type helps users understand and navigate the content more effectively. Please note that the colour and formatting of messages may change over time. Always select a message type based on its content, not on its appearance. This section type should be used sparingly. Overuse may overwhelm users and reduce its impact. This section type is never displayed with a title."
+	msgstr "Selecting the appropriate message type helps users understand and navigate the content more effectively. Please note that the colour and formatting of messages may change over time. Always select a message type based on its content, not on its appearance. This section type should be used sparingly. Overuse may overwhelm users and reduce its impact. This section type is never displayed with a title."
+
+	#| msgid label_neutral
+	msgid "Neutral"
+	msgstr "Neutral"
+
+	#| msgid label_notice
+	msgid "Notice"
+	msgstr "Notice"
+
+	#| msgid label_error
+	msgid "Error"
+	msgstr "Error"
+
+	#| msgid label_warning
+	msgid "Warning"
+	msgstr "Warning"
+
+	#| msgid label_message_contents
+	msgid "Message contents"
+	msgstr "Message contents"
+
 	#| msgid message_no_hero_image
 	msgid "A hero image is required to publish this item."
 	msgstr "A hero image is required to publish this item."
@@ -224,8 +256,8 @@
 	msgstr "Medication Handover"
 
 	#| msgid label_acute_care
-	msgid "Acute Care"
-	msgstr "Acute Care"
+	msgid "Acute care"
+	msgstr "Acute care"
 
 	#| msgid label_typical_side_effects
 	msgid "Typical side effects"
@@ -532,8 +564,8 @@
 	msgstr "Personas"
 
 	#| msgid message_components
-	msgid "Components which may be used to be placed on pages."
-	msgstr "Components which may be used to be placed on pages."
+	msgid "Components that can be used within any ProZIN product."
+	msgstr "Components that can be used within any ProZIN product."
 
 	#| msgid message_page_types
 	msgid "Various page types, each with its own purpose."
@@ -1175,6 +1207,14 @@
 	msgid "All sectors"
 	msgstr "All sectors"
 
+	#| msgid label_sectors
+	msgid "Sectors"
+	msgstr "Sectors"
+
+	#| msgid message_choose_a_sector
+	msgid "Choose a sector."
+	msgstr "Choose a sector."
+
 	#| msgid label_collapse_all_sections
 	msgid "Collapse all sections"
 	msgstr "Collapse all sections"
@@ -1670,10 +1710,6 @@
 	#| msgid label_ok
 	msgid "Okay"
 	msgstr "Okay"
-
-	#| msgid label_error
-	msgid "Error"
-	msgstr "Error"
 
 	#| msgid label_something_went_wrong
 	msgid "Something went wrong…"
@@ -3448,8 +3484,8 @@
 	msgstr "Read more…"
 
 	#| msgid label_read_more_ell
-	msgid "Read more…"
-	msgstr "Read more…"
+	msgid "More information…"
+	msgstr "More information…"
 
 	#| msgid label_lemma
 	msgid "Search term"
@@ -5887,6 +5923,10 @@
 	msgid "Frequency of administration"
 	msgstr "Frequency of administration"
 
+	#| msgid label_IHSI_code
+	msgid "IHSI Code"
+	msgstr "IHSI Code"
+
 	#| msgid label_funding
 	msgid "Budgetting"
 	msgstr "Budgetting"
@@ -7946,3 +7986,23 @@
 	#| msgid label_specification_type_mediation_register
 	msgid "Mediation register"
 	msgstr "Mediation register"
+
+	#| msgid message_sector_intro
+	msgid "This page lists all information for the sector {0}."
+	msgstr "This page lists all information for the sector {0}."
+
+	#| msgid label_main_information
+	msgid "Main information"
+	msgstr "Main information"
+
+	#| msgid label_transparency_calendar_description
+	msgid "An overview of when what quality data on care provided will be delivered for the sector {0}."
+	msgstr "An overview of when what quality data on care provided will be delivered for the sector {0}."
+
+	#| msgid label_long_term_agenda_description
+	msgid "Priority list of quality products to be developed for the sector {0}."
+	msgstr "Priority list of quality products to be developed for the sector {0}."
+
+	#| msgid label_data_exchange_description
+	msgid "Overview of standards that have a mandatory component due to the Electronic Data Interchange in Healthcare Act (Wegiz) for the {0} sector."
+	msgstr "Overview of standards that have a mandatory component due to the Electronic Data Interchange in Healthcare Act (Wegiz) for the {0} sector."
