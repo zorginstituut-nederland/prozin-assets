@@ -1,0 +1,292 @@
+
+	#| msgid message_browse_lane_help
+	msgid "Compile the table you want to see by first making a choice with the switch in column 1 (for example 'Medicines' or 'Medicines', then in column 2, etc. until the last column. Then click on 'Show overview' to collapse the switches and load the table, then want to view another table, click again on one of the switches so that they expand again."
+	msgstr "Stel de tabel samen die u wilt zien door eerst een keuze te maken met de schakelaar in kolom 1 (Bijvoorbeeld 'Geneesmiddelen' of 'Hulpmiddelen', dan in kolom 2 enz. tot aan de laatste kolom. Klik dan op 'Toon overzicht' om de schakelaars in te klappen en de tabel te laden. Wilt daarna een andere tabel bekijken? Klik dan opnieuw op één van de schakelaars zodat ze weer uitvouwen."
+
+	#| msgid message_more_info_in_faq
+	msgid "Find more information in the {0}."
+	msgstr "Vind meer informatie in {0}."
+
+	#| msgid message_more_info_in_following_sources
+	msgid "Find more information in the following source."
+	msgstr "Vind meer informatie in de volgende bronnen."
+
+	#| msgid label_site_description
+	msgid "De GIPdatabank bevat informatie over het gebruik van genees- en hulpmiddelen in Nederland over een periode van vijf jaar."
+	msgstr "De GIPdatabank bevat informatie over het gebruik van genees- en hulpmiddelen in Nederland over een periode van vijf jaar."
+
+	#| msgid label_site_name
+	msgid "GIPdatabank.nl"
+	msgstr "GIPdatabank.nl"
+
+	#| msgid label_search_box_placeholder
+	msgid "Search the site"
+	msgstr "Doorzoek de site"
+
+	#| msgid label_site_ankeiler
+	msgid "Informatie over Geneesmiddelen en Hulpmiddelen van Zorginstituut Nederland"
+	msgstr "Informatie over Geneesmiddelen en Hulpmiddelen van Zorginstituut Nederland"
+
+	#| msgid label_name
+	msgid "Name"
+	msgstr "Naam"
+
+	#| msgid label_your_response
+	msgid "Your response"
+	msgstr "Uw reactie"
+
+	#| msgid label_mandatory_fields
+	msgid "Mandatory fields"
+	msgstr "Verplichte velden"
+
+	#| msgid label_send
+	msgid "Send"
+	msgstr "Verstuur"
+
+	#| msgid label_professional
+	msgid "Professional"
+	msgstr "Beroepsmatig"
+
+	#| msgid label_private
+	msgid "Private"
+	msgstr "Privé"
+
+	#| msgid label_email
+	msgid "E-mail"
+	msgstr "E-mail"
+
+	#| msgid label_subject
+	msgid "Subject"
+	msgstr "Onderwerp"
+
+	#| msgid label_grouping
+	msgid "Grouped by"
+	msgstr "Gegroepeerd op"
+
+	#| msgid label_employee_position
+	msgid "Position"
+	msgstr "Functie"
+
+	#| msgid label_more_news
+	msgid "More nieuws"
+	msgstr "Meer nieuws"
+
+	#| msgid label_csv_file
+	msgid "CSV file"
+	msgstr "CSV-bestand"
+
+	#| msgid label_pdf_file
+	msgid "PDF file"
+	msgstr "PDF-document"
+
+	#| msgid label_zip_file
+	msgid "ZIP file"
+	msgstr "ZIP-bestand"
+
+	#| msgid label_compressed_file
+	msgid "Compressed file"
+	msgstr "Gecomprimeerd bestand"
+
+	#| msgid label_word_file
+	msgid "Word file"
+	msgstr "Word-document"
+
+	#| msgid label_excel_file
+	msgid "Excel file"
+	msgstr "Excel-document"
+
+	#| msgid title_toc
+	msgid "Table of contents"
+	msgstr "Inhoudsopgave"
+
+	#| msgid title_login
+	msgid "Login"
+	msgstr "Inloggen"
+
+	#| msgid title_logout
+	msgid "Logout"
+	msgstr "Uitloggen"
+
+	#| msgid title_logged_in_as
+	msgid "Logged in as"
+	msgstr "Ingelogd als"
+
+	#| msgid title_change_password
+	msgid "Change password"
+	msgstr "Wachtwoord wijzigen"
+
+	#| msgid title_medicines
+	msgid "Medicines"
+	msgstr "Geneesmiddelen"
+
+	#| msgid title_medicine_group
+	msgid "Medicine group"
+	msgstr "Geneesmiddelgroep"
+
+	#| msgid title_medicine_groups
+	msgid "Medicine groups"
+	msgstr "Geneesmiddelgroepen"
+
+	#| msgid title_product_fk
+	msgid "Pharmacotherapeutical Compass"
+	msgstr "Farmacotherapeutisch Kompas"
+
+	#| msgid title_composition
+	msgid "Composition"
+	msgstr "Samenstelling"
+
+	#| msgid title_advice
+	msgid "Advice"
+	msgstr "Advies"
+
+	#| msgid title_indications
+	msgid "Indications"
+	msgstr "Indicaties"
+
+	#| msgid title_side_effects
+	msgid "Side effects"
+	msgstr "Bijwerkingen"
+
+	#| msgid title_interactions
+	msgid "Interactions"
+	msgstr "Interacties"
+
+	#| msgid title_dosage
+	msgid "Dosage"
+	msgstr "Dosering"
+
+	#| msgid title_pregnancy
+	msgid "Pregnancy"
+	msgstr "Zwangerschap"
+
+	#| msgid title_lactation
+	msgid "Lactation"
+	msgstr "Lactatie"
+
+	#| msgid title_contraindications
+	msgid "Contraindications"
+	msgstr "Contra-indicaties"
+
+	#| msgid title_warnings_and_precautions
+	msgid "Warnings and precautions"
+	msgstr "Waarschuwingen en voorzorgen"
+
+	#| msgid title_overdose
+	msgid "Overdose"
+	msgstr "Overdosering"
+
+	#| msgid title_properties
+	msgid "Properties"
+	msgstr "Eigenschappen"
+
+	#| msgid title_group_information
+	msgid "Group information"
+	msgstr "Groepsinformatie"
+
+	#| msgid title_cost
+	msgid "Cost"
+	msgstr "Kosten"
+
+	#| msgid title_see_also
+	msgid "See also"
+	msgstr "Zie ook"
+
+	#| msgid title_external_links
+	msgid "External links"
+	msgstr "Externe links"
+
+	#| msgid title_contact
+	msgid "Contact"
+	msgstr "Contact"
+
+	#| msgid title_page_not_found
+	msgid "The page or file that you requested could not be found"
+	msgstr "De pagina die of het bestand dat u heeft opgevraagd is niet gevonden"
+
+	#| msgid title_not_found
+	msgid "Not found"
+	msgstr "Niet gevonden"
+
+	#| msgid title_main_menu
+	msgid "Main menu"
+	msgstr "Hoofdmenu"
+
+	#| msgid title_topics
+	msgid "Topics"
+	msgstr "Onderwerpen"
+
+	#| msgid title_the_tools
+	msgid "The tools"
+	msgstr "De tools"
+
+	#| msgid title_news
+	msgid "News"
+	msgstr "Nieuws"
+
+	#| msgid message_contact_us_via_form
+	msgid "Use the form below to contact Zorginstituut."
+	msgstr "Neem via onderstaand formulier contact op met het Zorginstituut."
+
+	#| msgid message_are_you_sure
+	msgid "Are you sure you want to continue?"
+	msgstr "Weet u zeker dat u verder wilt gaan?"
+
+	#| msgid message_thanks_for_response_we_will_contact_you
+	msgid "Thank you for our response. We will contact you as soon as possible."
+	msgstr "Dankuwel voor uw reactie. Wij nemen zo spoedig mogelijk contact met u op."
+
+	#| msgid message_information_location_alternative
+	msgid "TRANSLATION REQUIRED"
+	msgstr "U kunt de informatie die u zoekt mogelijk vinden via de zoekpagina of de homepage."
+
+	#| msgid message_you_are_here
+	msgid "You are here:"
+	msgstr "U bevindt zich hier:"
+
+	#| msgid message_use_filters_to_alter_view_of_tool_list_p1
+	msgid "TRANSLATION REQUIRED"
+	msgstr "Gebruik de volgende filters om"
+
+	#| msgid message_use_filters_to_alter_view_of_tool_list_p2
+	msgid "TRANSLATION REQUIRED"
+	msgstr "de lijst met tools"
+
+	#| msgid message_use_filters_to_alter_view_of_tool_list_p3
+	msgid "TRANSLATION REQUIRED"
+	msgstr "toe te spitsen op uw behoeften."
+
+	#| msgid message_no_table
+	msgid "TRANSLATION REQUIRED"
+	msgstr "De bovenstaande combinatie levert geen resultaten op."
+
+	#| msgid message_wizard_data_generation
+	msgid "TRANSLATION REQUIRED"
+	msgstr "Door het genereren van de wizarddata kan het bladerinstrument met de meest recente gegevens werken."
+
+	#| msgid message_wizard_content_update
+	msgid "TRANSLATION REQUIRED"
+	msgstr "Werk de redactionele content van de GIPdatabank.nl bij."
+
+	#| msgid message_indexation
+	msgid "TRANSLATION REQUIRED"
+	msgstr "Gebruik de indexeerfunctie om ervoor te zorgen dat in het zoekresultaat ook de meest recente pagina's weergegeven worden."
+
+	#| msgid message_wizard_data_generated
+	msgid "The wizard data has been generated."
+	msgstr "De wizarddata is gegenereerd."
+
+	#| msgid message_indexed
+	msgid "The indexation has started. This may take several hours. You will receive an e-mail as soon as the indexation is finished."
+	msgstr "Het indexeren is gestart. Dit kan enkele uren duren. Zodra het indexeren geslaagd is wordt u hierover per e-mail bericht."
+
+	#| msgid label_generate_wizard_data
+	msgid "Generate wizard data"
+	msgstr "Genereer wizarddata"
+
+	#| msgid label_build_index
+	msgid "Build index"
+	msgstr "Indexeer"
+
+	#| msgid label_update
+	msgid "Update"
+	msgstr "Werk bij"
